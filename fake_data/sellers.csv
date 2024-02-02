@@ -1,0 +1,201 @@
+id,seller_name,seller_city,item_id
+1,Dyer PLC,Riceport,87
+2,"Mullins, Malone and Dean",Tiffanyburgh,19
+3,"Barton, Parker and Thomas",Leslieland,7
+4,James Ltd,Port Stevechester,50
+5,Berry PLC,Lake Timothyhaven,25
+6,Berry Ltd,West Katieview,20
+7,"Dunn, Tran and Rodriguez",West Austin,12
+8,Beck-Chambers,Gilesburgh,33
+9,Ray-Stevens,West Lesliefort,70
+10,"Cooley, Morgan and Hernandez",Kevinside,59
+11,Vaughn-Rodriguez,Jonathanland,67
+12,Green-Lyons,Chenmouth,47
+13,Martinez-Mccoy,North Katie,49
+14,"Hernandez, Sutton and Robinson",Barrettmouth,28
+15,Jackson-Allen,Galvanville,1
+16,Leonard LLC,Grayview,59
+17,Roy LLC,Velasqueztown,44
+18,Oconnell-Diaz,New Jasonberg,10
+19,Knapp Ltd,South Scottbury,56
+20,Gilbert Group,Lake Matthew,92
+21,"Johnson, Howard and Perez",Michaelberg,83
+22,Collins Inc,West Jenniferborough,10
+23,"Day, Patel and James",Jenniferhaven,83
+24,Morrison and Sons,Howardton,42
+25,Martin-Berry,North Charlesport,95
+26,"Ramirez, Curtis and Roberts",Sarabury,34
+27,Lopez Inc,East Sandra,13
+28,Anderson Inc,Lake Meganfurt,24
+29,Gray-Stark,New Josemouth,11
+30,"Best, Clayton and Boone",Deborahfurt,32
+31,Henderson-Rios,Turnermouth,82
+32,"Tran, Yang and Reed",New Nancyburgh,96
+33,Miranda-Woods,Sanfordfort,90
+34,"Herrera, Ross and Meyer",South David,87
+35,Mann-Shelton,Faithchester,59
+36,Leach-Mills,Cobbburgh,7
+37,"Gibbs, Lewis and Jensen",Harrisstad,75
+38,Pena Group,Fosterborough,9
+39,"Gibson, Burke and Ferguson",Aprilmouth,85
+40,Melendez-Price,Lake Vanessabury,32
+41,"Lamb, House and Jones",Cynthiafort,17
+42,"Patel, Lewis and Fletcher",Port Tom,54
+43,"Taylor, Vaughn and Collins",Williamsbury,18
+44,Garcia-Patterson,Christophermouth,4
+45,"Cook, Davis and Diaz",South Brianport,42
+46,"Orr, Jones and Brown",Masonville,54
+47,Simmons-Stewart,Lake Jeffreytown,17
+48,"Wilson, Hoffman and Lewis",Lake Dustinhaven,4
+49,Wood-Mcdowell,Baileyport,50
+50,Stout Inc,Tamaramouth,67
+51,Delgado Inc,Wattsmouth,96
+52,Greene-Brewer,South Travisborough,90
+53,Acosta-Hill,Davidland,23
+54,"Gonzales, Deleon and Mcmahon",Lake Samantha,98
+55,Mcdaniel-Miller,Lake Robinhaven,45
+56,"Mills, Decker and Walker",Port Samanthafort,75
+57,Tran Ltd,Ashleehaven,15
+58,Moreno PLC,Stephanieberg,87
+59,"Obrien, Alvarado and Smith",Fullerstad,11
+60,"Torres, Thomas and Taylor",Buckfurt,50
+61,"Brennan, Leblanc and Todd",New Erik,76
+62,"Calhoun, Nelson and Williams",Tylerhaven,42
+63,Caldwell Group,Jackiechester,24
+64,Bowman-Myers,North Wendy,81
+65,"Daniel, Long and Shaw",Port Mary,1
+66,Meyer-Leblanc,Jessicabury,79
+67,"Hernandez, Hart and Thomas",Goodmanmouth,68
+68,"Coleman, Johnson and Miller",Port Ericburgh,83
+69,"Franklin, Perez and Hampton",Cindyview,90
+70,Jones and Sons,Nataliefurt,60
+71,Garcia-Brown,Martinside,19
+72,"Green, Hernandez and Cline",New Michaelport,73
+73,"Johnson, Allen and Williams",Austinview,80
+74,Chambers-Lawrence,Lake Jeffery,65
+75,"Thompson, Williams and Wilkerson",West Gregory,63
+76,"Johnson, Sanchez and Silva",Port Josephside,95
+77,"Armstrong, Christensen and Stephens",Crystalton,40
+78,Reyes LLC,Foxland,75
+79,Patterson LLC,West Williamstad,19
+80,"Griffin, Keith and Carlson",Melissaborough,77
+81,Taylor LLC,Vazquezborough,29
+82,"Ashley, Johnson and Delgado",Codymouth,70
+83,Thornton-Trevino,Lake Tammie,7
+84,"Williams, Cannon and Huff",Noahtown,90
+85,Myers Group,Nathanfort,68
+86,Nelson-Weaver,South Jerry,97
+87,Torres-Mills,Zacharyborough,57
+88,"Ortiz, Ball and Wheeler",Grantton,69
+89,Herrera-Wood,Port Johnville,88
+90,Bruce-Walters,Port Sue,7
+91,Fischer Group,North Michelleville,12
+92,Pacheco-Adams,West James,98
+93,Dorsey PLC,Ericabury,94
+94,Anderson LLC,Lake Edward,28
+95,"Hancock, Bowen and Brooks",Lindseychester,57
+96,White LLC,Lorishire,8
+97,"Hall, Sherman and Dawson",Romerobury,1
+98,Pearson and Sons,Sonyaburgh,71
+99,"Briggs, Buchanan and Hood",West Stanleyburgh,87
+100,Johnson Group,Carlville,71
+101,Hudson Ltd,East Dennisburgh,12
+102,Dean-Evans,Mcintoshfort,87
+103,"Williams, Miller and Taylor",North Molly,97
+104,Osborn-Cook,New Lorifurt,69
+105,Robinson LLC,South Brandon,66
+106,"Mercer, Brown and Moore",Nathanstad,65
+107,Walker Ltd,West Danielleberg,46
+108,Ellis Group,Lake Matthew,99
+109,Cook-Wade,Lake Lindseychester,24
+110,"Collins, Butler and Richmond",North Ryan,85
+111,"Cooper, Walker and Hansen",South Monica,87
+112,Anderson-Richard,Kelseychester,69
+113,Sanders-Vasquez,East Gary,25
+114,"Stark, Harris and Maynard",Brittanyburgh,24
+115,Morgan-Ward,Lynchtown,54
+116,Davenport and Sons,East Tracieview,74
+117,Sanchez LLC,Stanleyburgh,5
+118,Gonzalez-Mcdonald,Port Stevenburgh,90
+119,Golden Ltd,Stevenmouth,56
+120,Clarke Inc,Martinezton,2
+121,Rodriguez-Morse,Amberville,17
+122,Perez-Webb,Port Meredith,64
+123,Rodriguez-Bowen,Freemanfurt,63
+124,"Hoffman, Marshall and Wright",West Matthewtown,79
+125,James-Silva,West Ashleymouth,77
+126,Diaz-Wheeler,East Reginaburgh,91
+127,Santos-Moody,North Andrew,45
+128,Murphy-Robertson,Stacyborough,48
+129,"Love, Vincent and Johnson",East Lisa,67
+130,Moore Group,South Thomas,41
+131,Cook-Sanchez,Douglashaven,81
+132,"Dennis, Watkins and Ellis",West Larry,15
+133,Stuart Ltd,Matthewston,93
+134,"Boyd, Wade and Johnson",South Tiffany,85
+135,Gonzales-Davis,North Annabury,63
+136,Barton-Brooks,West Glenn,87
+137,Miller and Sons,Lake Shirleyland,60
+138,Dunn Inc,Ericville,56
+139,"Franklin, Herman and Valentine",Pageberg,66
+140,Collins-Conway,Port Justinview,35
+141,Hall PLC,Lindsayburgh,99
+142,Wolfe PLC,Rickyborough,46
+143,Campbell Ltd,Deanburgh,70
+144,Guerra-Montes,New Emily,77
+145,Tanner and Sons,South Michael,63
+146,Mcmahon-Ruiz,South Michaeltown,71
+147,Lyons-Melendez,South Tabithachester,72
+148,Lee-Hall,New Paigefort,76
+149,"Cox, Adkins and Green",Scottshire,53
+150,"Miller, Haley and Jackson",Freemanshire,62
+151,Brown-King,Elizabethton,57
+152,Mendez and Sons,East Crystal,48
+153,Snyder PLC,Hallmouth,53
+154,Ballard Group,Millermouth,23
+155,Santos-Tucker,Port Ryan,11
+156,Miller-Frank,Salinasfurt,42
+157,"Gray, Edwards and Moore",Perezview,94
+158,Harris PLC,East Deanborough,7
+159,Campbell-Morgan,Anthonybury,99
+160,Bray LLC,Stokesfurt,16
+161,"Jones, Pitts and Fischer",Henryborough,62
+162,"Mckee, Campbell and Mills",Allenborough,18
+163,Taylor-Wallace,Sextonland,46
+164,Jones-Kent,Port Gene,75
+165,"Gaines, Scott and Curry",Vasquezchester,61
+166,Cunningham-Myers,North Robert,27
+167,"Walker, Dean and Hansen",Lake Andreaton,86
+168,Jackson PLC,Christianberg,57
+169,"Washington, Thomas and Hill",Lake Danielle,40
+170,Williams-Wilson,Martinezview,12
+171,"Edwards, Garcia and Cameron",West Annette,3
+172,"Paul, Swanson and Mitchell",New Trevorhaven,75
+173,"Salinas, Berry and Lambert",New Gregorybury,7
+174,"Arnold, Tanner and Jones",Hoffmanview,56
+175,"Rice, Riley and Garrison",North Sara,93
+176,Browning-Osborne,West Gabrielaland,10
+177,Davis-Goodwin,East Jessicachester,2
+178,"Clark, Walker and Moreno",Lake Wayne,43
+179,"Hayes, Griffin and Stanton",New Jeffreyville,2
+180,"Rivera, Oneill and Anderson",West Jason,92
+181,"Branch, Joseph and Benson",South Hector,32
+182,Williamson Group,Johnsonton,84
+183,Werner-Goodman,South Melissaburgh,91
+184,Smith Inc,Lake Francisco,2
+185,"Howell, Montgomery and Washington",Hodgesshire,99
+186,Collins and Sons,South Nathaniel,89
+187,"Davis, Franklin and Thomas",North Danny,40
+188,Weiss-Meyer,Stephaniebury,46
+189,"West, Bauer and Garcia",Andreaberg,20
+190,Martinez-Arnold,Pierceshire,29
+191,Jones LLC,Fordbury,34
+192,Walker-Powell,East Dianefurt,22
+193,Hernandez Inc,Port Jeremyfort,45
+194,Gutierrez Group,Lake Melissa,12
+195,Lee-Boyd,West Jennaport,92
+196,Miller-Carlson,Watsonton,69
+197,Brown and Sons,Roberttown,86
+198,Jones-Ellison,Espinozahaven,27
+199,"Valentine, Nelson and Smith",Brianbury,65
+200,Smith-Alexander,South Lorimouth,20

@@ -1,0 +1,101 @@
+id,item_name,item_category,weight
+1,Smartphone,Electronics,363
+2,Laptop,Electronics,370
+3,Tablet,Electronics,436
+4,Smartwatch,Electronics,292
+5,Headphones,Electronics,903
+6,TV,Electronics,289
+7,Camera,Electronics,967
+8,Portable charger,Electronics,388
+9,Gaming console,Electronics,331
+10,Printer,Electronics,501
+11,Mouse,Electronics,983
+12,Keyboard,Electronics,801
+13,VR headset,Electronics,263
+14,Battery,Electronics,349
+15,USB cable,Electronics,438
+16,Computer speakers,Electronics,340
+17,Monitor,Electronics,717
+18,Camera,Electronics,989
+19,Router,Electronics,835
+20,External hard drive,Electronics,384
+21,T-shirt,Clothing,117
+22,Jeans,Clothing,963
+23,Jacket,Clothing,485
+24,Dress,Clothing,219
+25,Sweater,Clothing,484
+26,Pants,Clothing,619
+27,Shirt,Clothing,827
+28,Hoodie,Clothing,993
+29,Skirt,Clothing,734
+30,Blazer,Clothing,307
+31,Shorts,Clothing,793
+32,Blouse,Clothing,838
+33,Hat,Clothing,549
+34,Coat,Clothing,304
+35,Underwear,Clothing,874
+36,Socks,Clothing,477
+37,Tie,Clothing,399
+38,Suit,Clothing,159
+39,Glasses,Clothing,259
+40,Sportswear,Clothing,835
+41,Shampoo,Beauty and Health,592
+42,Face cream,Beauty and Health,856
+43,Perfume,Beauty and Health,802
+44,Toothbrush,Beauty and Health,957
+45,Toothpaste,Beauty and Health,217
+46,Shower gel,Beauty and Health,340
+47,Face mask,Beauty and Health,216
+48,Cleansing oil,Beauty and Health,563
+49,Cosmetics,Beauty and Health,386
+50,Razor,Beauty and Health,198
+51,Deodorant,Beauty and Health,850
+52,Massager,Beauty and Health,796
+53,Vitamins,Beauty and Health,422
+54,Antiseptic,Beauty and Health,592
+55,Lipstick,Beauty and Health,255
+56,Sunscreen,Beauty and Health,144
+57,Body lotion,Beauty and Health,734
+58,Anti-aging products,Beauty and Health,951
+59,Hygienic pads,Beauty and Health,616
+60,Electric toothbrush,Beauty and Health,779
+61,Soap,Chemistry,567
+62,Cleaning agent,Chemistry,406
+63,Dishwashing shampoo,Chemistry,160
+64,Floor cleaner,Chemistry,482
+65,Laundry detergent,Chemistry,106
+66,Cleansing powder,Chemistry,546
+67,Dish sponges,Chemistry,369
+68,Window cleaning solution,Chemistry,493
+69,Insect repellent,Chemistry,884
+70,Disinfectant spray,Chemistry,233
+71,Dishwashing liquid,Chemistry,939
+72,Antiseptic gel,Chemistry,496
+73,Stain remover,Chemistry,303
+74,Special dye,Chemistry,602
+75,Air freshener,Chemistry,971
+76,Mold remover,Chemistry,845
+77,Special dishwashing solution,Chemistry,318
+78,Pipe cleaning acid,Chemistry,806
+79,Wet wipes,Chemistry,779
+80,Mosquito aerosol,Chemistry,956
+81,Bread,Food and Beverages,447
+82,Milk,Food and Beverages,391
+83,Eggs,Food and Beverages,726
+84,Vegetable oil,Food and Beverages,914
+85,Rice,Food and Beverages,780
+86,Pasta,Food and Beverages,374
+87,Sugar,Food and Beverages,604
+88,Coffee,Food and Beverages,354
+89,Tea,Food and Beverages,616
+90,Fruits,Food and Beverages,147
+91,Vegetables,Food and Beverages,146
+92,Meat,Food and Beverages,735
+93,Fish,Food and Beverages,521
+94,Cheese,Food and Beverages,599
+95,Yogurt,Food and Beverages,165
+96,Juice,Food and Beverages,244
+97,Water,Food and Beverages,308
+98,Canned goods,Food and Beverages,534
+99,Greens,Food and Beverages,174
+100,Dessert,Food and Beverages,933
